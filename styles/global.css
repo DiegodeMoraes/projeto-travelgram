@@ -26,6 +26,8 @@
     font: var(--text);
     color: var(--text-color-secondary);
     background-color: var(--background-color);
+  }
 
-
+  img {
+    width: 800%;
   }
